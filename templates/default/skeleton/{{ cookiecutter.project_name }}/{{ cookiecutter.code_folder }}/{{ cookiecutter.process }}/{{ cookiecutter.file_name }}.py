@@ -1,0 +1,1 @@
+print("{{ cookiecutter.file_name }} process!")

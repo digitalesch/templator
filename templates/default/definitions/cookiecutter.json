@@ -1,0 +1,7 @@
+{
+    "project_name":         "sample_template",
+    "config":               "configuration",
+    "code_folder":           "src",
+    "process":              "dev",
+    "file_name":            "sample"
+}

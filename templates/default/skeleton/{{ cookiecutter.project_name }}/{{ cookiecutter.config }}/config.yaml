@@ -1,0 +1,2 @@
+{{ cookiecutter.process }}:
+  - {{ cookiecutter.file_name }}

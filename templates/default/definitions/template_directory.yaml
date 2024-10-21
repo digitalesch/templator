@@ -1,0 +1,7 @@
+cookiecutter.json: "definitions/cookiecutter.json"
+"{{ cookiecutter.project_name }}":
+    "{{ cookiecutter.config }}":
+      - config.yaml:   "definitions/config.yaml"
+    "{{ cookiecutter.code_folder }}":
+      "{{ cookiecutter.process }}":
+          - "{{ cookiecutter.file_name }}.py": "definitions/file.py"

@@ -4,7 +4,8 @@ Simple template generator that generates folders and files with Jinja templates
 Creates structure from template yaml file
 ![image](https://github.com/user-attachments/assets/55552867-5051-4350-b978-4b27c3a2ac50)
 
-Code structure is made from templates and makefile, to generate <template name> folders
+Code structure is made from templates and makefile
+
 ![image](https://github.com/user-attachments/assets/b82c4c0b-1f54-4439-82b5-e90f5a719924)
 
 When 

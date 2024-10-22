@@ -13,9 +13,11 @@ When
 make generate
 ```
 is used, it will generate default folders with the result:
+
 ![image](https://github.com/user-attachments/assets/577756fd-1cff-4dde-bbbc-8ec2412e97be)
 
 and cookiecutter library will Jinja template folders / files
+
 ![image](https://github.com/user-attachments/assets/668928f0-8e1b-4379-a238-6e1cd33e61e9)
 
 ![image](https://github.com/user-attachments/assets/f6b0f4f7-86ca-4aa7-9e22-fc08587d16bd)
